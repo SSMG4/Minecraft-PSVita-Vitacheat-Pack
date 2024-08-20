@@ -17,17 +17,11 @@ The "All Cheats" Cheat is meant to find the cheat you want and move it to your c
 Credits:
 
 -Matt19220
-
 -Derpiebeast
-
 -SIDD_BOSS
-
 -GabrielChan01
-
 -Doom_YXZ
-
 -Console_Cancer
-
 -ReaperChap
 
 
