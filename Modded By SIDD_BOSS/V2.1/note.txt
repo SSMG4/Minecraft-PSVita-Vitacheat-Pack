@@ -1,0 +1,1 @@
+The V2.1 might give you a syntax error when launching vitacheat, we still don't know what causes it but you can also be lucky and don't have that error
