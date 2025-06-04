@@ -1,5 +1,7 @@
 # Minecraft PSVita Vitacheat Pack
 
+![Downloads](https://img.shields.io/github/downloads/SSMG4/Minecraft-PSVita-Vitacheat-Pack/total)
+
 A Vitacheat Pack for Minecraft (took me ages to find .-.)
 
 # Notes:
