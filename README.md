@@ -1,6 +1,6 @@
 # Minecraft PSVita Vitacheat Pack
 
-EDIT: This project has been deemed finished and wont receive anymore updates unless someone or myself find new cheats.
+EDIT: This project has been deemed finished and wont receive anymore updates unless someone or myself finds new cheats.
 
 Last Update: 2025.06.27
 
