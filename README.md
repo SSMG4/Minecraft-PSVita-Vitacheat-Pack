@@ -1,5 +1,9 @@
 # Minecraft PSVita Vitacheat Pack
 
+EDIT: This project has been deemed finished and wont receive anymore updates unless someone or myself find new cheats.
+
+Last Update: 2025.06.27
+
 ![Downloads](https://img.shields.io/github/downloads/SSMG4/Minecraft-PSVita-Vitacheat-Pack/total)
 
 A Vitacheat Pack for Minecraft (took me ages to find .-.)
